@@ -273,3 +273,9 @@ cython_debug/
 .idea/
 
 checkpoints/
+
+volume/
+
+resources/
+
+parquetResources/
